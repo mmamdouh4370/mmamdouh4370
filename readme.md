@@ -1,8 +1,6 @@
 ## :wave: Hi, I'm Mohammed! |˶˙ᵕ˙ )ﾉﾞ
 I'm a CS student :computer: at the **University of Central Florida Burnett Honors** college. I'm highly passionate about *open source software*, *low level programming*, and have a keen interest in *machine learning*.
 
-I'm currently an :brain: **AI Software Engineer Intern** at **Resilience, Inc**.
-
 Thanks for stopping by :]
 <br />
 <div align="center">
